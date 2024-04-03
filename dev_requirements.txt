@@ -1,0 +1,6 @@
+earthengine-api
+tagee
+black
+flake8
+build
+twine
